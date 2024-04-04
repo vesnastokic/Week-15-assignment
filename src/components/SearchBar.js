@@ -1,5 +1,7 @@
-import React, { useState } from "react";
 import axios from "axios";
+import React, { useState } from "react";
+
+
 import "./styles.css";
 
 const SearchBar = ({ setRecipes }) => {
@@ -14,7 +16,7 @@ const SearchBar = ({ setRecipes }) => {
         `https://www.themealdb.com/api/json/v1/1/search.php?s=${searchQuery}`
       );
 
-      console.log("API Response:", response.data); // Log the API response data
+      console.log("API Response:", response.data);
 
       // Extract recipes data from response
       const { meals } = response.data;
