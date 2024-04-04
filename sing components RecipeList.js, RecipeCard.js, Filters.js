@@ -1,0 +1,29 @@
+[33mcommit d036fab648fdc59513042036c64f44152cd5afcb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: vesnastokic <vesnastokic019@gmail.com>
+Date:   Thu Apr 4 11:22:11 2024 -0500
+
+    Add missing components: RecipeList.js, RecipeCard.js, Filters.js
+
+[33mcommit ab12f412767618a8da613f98126ffb18c9727773[m
+Author: vesnastokic <vesnastokic019@gmail.com>
+Date:   Thu Apr 4 11:17:52 2024 -0500
+
+    Update App.js and add styles.css
+
+[33mcommit 20a5359f9dbc7556b6ea445dabc0a05d1631a2df[m
+Author: vesnastokic <vesnastokic019@gmail.com>
+Date:   Thu Apr 4 11:07:13 2024 -0500
+
+    Add example.txt
+
+[33mcommit ee95c0694f4216b817c9170644c823dfccea246e[m
+Author: vesnastokic <vesnastokic019@gmail.com>
+Date:   Thu Apr 4 11:02:05 2024 -0500
+
+    Remove embedded repository
+
+[33mcommit be5c518f6002ac1258fe3e34d5d15f4932f7971a[m
+Author: vesnastokic <vesnastokic019@gmail.com>
+Date:   Thu Mar 28 13:56:54 2024 -0500
+
+    Initial commit
